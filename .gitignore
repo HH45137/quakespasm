@@ -1,0 +1,5 @@
+Quake/id1/*
+Quake/*.o
+Quake/*.d
+Quake/history.txt
+Quake/quakespasm
